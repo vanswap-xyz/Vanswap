@@ -8,7 +8,7 @@
 ## 🔗 Official Links
 - **Website:** [vanswap.xyz](https://vanswap.xyz)
 - **Documentation:** [vanswap.xyz/docs](https://vanswap.xyz/docs)
-- **Analytics:** [vanswap.xyz/analitics](https://vanswap.xyz/analitics)
+- **Analytics:** [vanswap.xyz/analitics](https://vanswap.xyz/analitycs)
 - **Twitter:** [x.com/vanswap.xyz](https://x.com/vanswap.xyz)
 - **Telegram:** [t.me/vanswap.xyz](https://t.me/vanswap.xyz)
 - **Medium:** [@vanswapofficial](https://medium.com/@vanswapofficial)
@@ -131,11 +131,11 @@ Complete developer documentation available at [vanswap.xyz/docs](https://vanswap
 - Liquidity provider rewards
 
 ## 🔮 Roadmap
-- **Q2 2024:** Multi-chain expansion
-- **Q3 2024:** Advanced order types (limit orders, stop-loss)
-- **Q4 2024:** Mobile application launch
-- **Q1 2025:** Cross-chain swaps integration
-- **Q2 2025:** Institutional trading features
+- **Q2 2025:** Dex launch at vana chain
+- **Q3 2025:** Test and launch 0G network 
+- **Q4 2025:** Application launch and add berachain
+- **Q1 2026:** Cross-chain swaps integration
+- **Q2 2026:** next strategy and reward
 
 ## 🤝 Contributing
 We welcome contributions from the community:
