@@ -1,6 +1,6 @@
 # VanSwap - Decentralized Exchange on Vana Chain & Beyond
 
-![VanSwap Logo](vanswap.xyz/assets/vans.png)
+![VanSwap Logo](https://vanswap.xyz/assets/vans.png)
 
 ## 🚀 Introduction
 **VanSwap** is a next-generation decentralized exchange (DEX) built on the **Vana Chain and Beyond**, offering fast, secure, and low-cost trading experiences. Our platform combines advanced DeFi features with user-friendly interfaces to democratize access to decentralized finance.
